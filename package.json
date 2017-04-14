@@ -11,10 +11,16 @@
   "dependencies": {
     "@types/react": "^15.0.21",
     "@types/react-dom": "^0.14.23",
+    "karma": "^1.6.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "ts-loader": "^2.0.3",
     "typescript": "^2.2.2",
     "webpack": "^2.3.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
   }
 }
